@@ -22,7 +22,7 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 PRODUCT_SOONG_NAMESPACES += $(LOCAL_PATH)
 
 # Keyhandler
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     ConfigPanel
 
 # Recovery
